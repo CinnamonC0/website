@@ -80,7 +80,7 @@ Untuk meng-_install Auto Renewal_, yang digunakan untuk menjalankan script aktiv
 
 9. Selesai. Lisensi Microsoft _Office_ sudah aktif, dan aplikasi Word, Excel, PowerPoint siap digunakan!
 
-# Ganti Jenis Windows
+# Mengganti Jenis Windows
 
 1. Buka PowerShell 
 Dengan cara klik kanan pada _Start Menu_, lalu klik PowerShell(Pada Windows 10) atau Terminal(Pada Windows 11)
