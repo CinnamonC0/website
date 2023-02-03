@@ -9,4 +9,4 @@ export default {
     }
   }
 
-let darkMode = true;
+let darkMode = false;
