@@ -33,7 +33,7 @@ lalu tekan enter
 Dengan cara menekan angka 1 pada keyboard
 
 3.1. Jika muncul tulisan "Checking: Windows (Versi) (Jenis) is Permanently Activated"
-Berarti Windows sudah pernah di aktivasi. Namun jika anda ingin _Upgrade_ jenis windows semisal dari Windows 10 Home ke Windows 10 Pro, Cek bagian "Update Jenis Windows" dibawah.
+Berarti Windows sudah pernah di aktivasi. Namun jika anda ingin _Upgrade_ jenis windows semisal dari Windows 10 Home ke Windows 10 Pro, Cek bagian "Mengganti Jenis Windows" dibawah.
 
 4. Tunggu sampai proses selesai
 
