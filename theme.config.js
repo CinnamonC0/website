@@ -1,5 +1,6 @@
 const YEAR = new Date().getFullYear()
 
+
 export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
@@ -17,5 +18,16 @@ export default {
         }
       `}</style>
     </small>
-  )
+  ),
+  darkMode: true,
+  useNextSeoProps() {
+    const { asPath } = useRouter()
+    if (asPath !== '/') {
+      return {
+        titleTemplate: '%s – Cinnamon'
+      }
+    }
+  }
 }
+
+
