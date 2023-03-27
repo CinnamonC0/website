@@ -1,7 +1,7 @@
 ---
 title: Cara aktivasi Windows dan Office secara Gratis
 date: 2023/2/3
-description: Aktivasi Windows dan office dengan script .
+description: Aktivasi Windows dan office dengan script.
 tag: Windows mods
 author: Cinnamon
 ---
