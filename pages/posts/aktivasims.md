@@ -14,7 +14,7 @@ Angka tersebut disebabkan karena sebagaian besar Produsen laptop menggunakan Win
 
 Disisi lain jika kita merakit komputer, maka kita haurs meng-_install_ Windows dan Office sendiri. Kita bisa saja mendownloadnya dari webiste Microsoft, namun itu hanya versi _Trial_ atau percobaan yang sewaktu-waktu kita diminta untuk membeli lisensinya.
 
-Nah pada postingan kali ini gw akan membagikan cara aktivasi Windows and Office secara gratis tanpa biaya dan aman dari virus karena aplikasi yang digunakan _Open Source_, yaitu menggunakan _reposiroty_ [massgrave](https://massgrave.dev/index.html).
+Nah pada postingan kali ini gw akan membagikan cara aktivasi Windows and Office secara gratis tanpa biaya dan aman dari virus karena aplikasi yang digunakan _Open Source_, yaitu menggunakan _repository_ [massgrave](https://massgrave.dev/index.html).
 
 
 # Aktivasi Windows 
